@@ -1,13 +1,13 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
+
 
 [![](https://img.shields.io/pypi/v/requests-api-pagination.svg?maxAge=3600)](https://pypi.org/project/requests-api-pagination/)
 [![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
-[![Travis](https://api.travis-ci.org/andrewp-as-is/requests-api-pagination.py.svg?branch=master)](https://travis-ci.org/andrewp-as-is/requests-api-pagination.py/)
+[![](https://github.com/andrewp-as-is/requests-api-pagination.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/requests-api-pagination.py/actions)
 
-#### Installation
+### Installation
 ```bash
 $ [sudo] pip install requests-api-pagination
 ```
@@ -23,5 +23,5 @@ requests_api_pagination.get(url,headers=headers)
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>

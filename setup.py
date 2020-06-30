@@ -1,13 +1,7 @@
-from setuptools import setup
+import setuptools
 
-setup(
+setuptools.setup(
     name='requests-api-pagination',
-    version='2019.5.2',
-    install_requires=[
-        'Requests',
-        'setuptools',
-    ],
-    packages=[
-        'requests_api_pagination',
-    ],
+    install_requires=open('requirements.txt').read().splitlines(),
+    packages=setuptools.find_packages()
 )
